@@ -35,7 +35,6 @@ public class AcademicCourses {
         return null;
     }
 
-
 }
 class College{
 
